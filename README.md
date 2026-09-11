@@ -4,7 +4,7 @@ An AI-powered conversational chatbot built with **Python, Streamlit, and Groq AP
 
 ## 🌐 Live Demo
 
-[Launch Shivani's AI ChatBot](https://shivani-ai-chatbot.onrender.com)
+https://shivani-ai-chatbot.onrender.com
 
 ## 📌 Overview
 
